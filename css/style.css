@@ -1,0 +1,112 @@
+body {
+    font-family: Montserrat;
+}
+
+header {
+    background: #111212;
+    height: 588px;
+}
+
+header .container a {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    color: #ffffff;
+}
+
+header .container ul a {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    color: #ffffff !important;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header .container li ul a{
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    color: #000 !important; 
+}
+
+header #leftMain {
+    margin-top: 150px;
+}
+
+header #leftMain h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFFFF !important;
+}
+
+header #leftMain h2 span {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+header #leftMain p {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+header #rightMain img {
+    margin-left: 200px;
+}
+
+main .section-1 #upperMain h4 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+}
+
+main .section-1 #bottomMain {
+    margin-left: 15rem;
+}
+
+main .section-1 #bottomMain h5 {
+    padding-top: 10px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+
+main .section-1 #bottomMain p {
+    padding-top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin-bottom: 100px;
+}
+
+main .section-2 {
+    background: #F3DD50;
+    height: 531px;
+}
+
+main .section-2 #upperMain h4 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+}
+
+main .section-2 #bottomMain img {
+    width: 276px;
+    height: 225px;
+}
